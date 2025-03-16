@@ -31,7 +31,7 @@ Seguir creciendo como desarrollador en un entorno que me permita aplicar mis hab
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" />
+  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind CSS" width="40" height="40" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />
   &nbsp;
